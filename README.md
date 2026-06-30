@@ -45,3 +45,9 @@ Relaciona el tipo de petición con su código de respuesta HTTP:
 | POST | `201 Created` |
 | DELETE | `204 No Content` |
 | PUT | `204 No Content` |
+
+![alt text](src/image1.png)
+![alt text](src/image2.png)
+![alt text](src/image3.png)
+![alt text](src/image4.png)
+![alt text](src/image5.png)
